@@ -1,0 +1,62 @@
+C:\Users\isuru\source\repos\Music Studio\Music Studio\bin\Debug\Music Studio.exe.config
+C:\Users\isuru\source\repos\Music Studio\Music Studio\bin\Debug\Music Studio.exe
+C:\Users\isuru\source\repos\Music Studio\Music Studio\bin\Debug\Music Studio.pdb
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music Studio.csprojAssemblyReference.cache
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.Login_form.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.Properties.Resources.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.GenerateResource.cache
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.CoreCompileInputs.cache
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music Studio.exe
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music Studio.pdb
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.Dashboard.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.ReservationsForm.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.Customers.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.Instruments.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.Employees.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.InformationForm.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.CreateLogins.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\obj\Debug\Music_Studio.Packages.resources
+C:\Users\isuru\source\repos\Music Studio\Music Studio\bin\Debug\StudioDatabase.mdf
+C:\Users\isuru\source\repos\Music Studio\Music Studio\bin\Debug\StudioDatabase_log.ldf
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\bin\Debug\StudioDatabase.mdf
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\bin\Debug\StudioDatabase_log.ldf
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\bin\Debug\Music Studio.exe.config
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\bin\Debug\Music Studio.exe
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\bin\Debug\Music Studio.pdb
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.AssemblyReference.cache
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.CreateLogins.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.Customers.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.Dashboard.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.Employees.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.InformationForm.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.Instruments.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.Login_form.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.Packages.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.Properties.Resources.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music_Studio.ReservationsForm.resources
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.GenerateResource.cache
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.CoreCompileInputs.cache
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music Studio.exe
+C:\Users\Isuru\Desktop\Music Studio\Music Studio\obj\Debug\Music Studio.pdb
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\bin\Debug\StudioDatabase.mdf
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\bin\Debug\StudioDatabase_log.ldf
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\bin\Debug\Music Studio.exe.config
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\bin\Debug\Music Studio.exe
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\bin\Debug\Music Studio.pdb
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.AssemblyReference.cache
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.CreateLogins.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.Customers.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.Dashboard.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.Employees.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.InformationForm.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.Instruments.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.Login_form.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.Packages.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.Properties.Resources.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music_Studio.ReservationsForm.resources
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.GenerateResource.cache
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music Studio.csproj.CoreCompileInputs.cache
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music Studio.exe
+C:\Users\Isuru\Desktop\Project\Music Studio\Music Studio\obj\Debug\Music Studio.pdb

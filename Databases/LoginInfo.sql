@@ -1,0 +1,8 @@
+﻿CREATE TABLE LoginInfo
+(
+	[Id] INT NOT NULL UNIQUE,
+    [EmployeeID] VARCHAR(50) NOT NULL PRIMARY KEY, 
+    [Username] VARCHAR(50) NOT NULL UNIQUE, 
+    [Password] VARCHAR(50) NOT NULL, 
+    [Account] VARCHAR(50) NOT NULL
+)
